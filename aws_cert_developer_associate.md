@@ -7,3 +7,6 @@
    * Por funcionalidade ? 
    * Por aplicação ? 
 * Existe um modo não infernal de gerencial policeis e permissões ?
+
+Usuário/Grupos = Vinculam acesso para pessoas (Policies);
+Roles =  Vinculam acessos para serviços a AWS (Policies)
