@@ -30,7 +30,16 @@ Lab using AWS Console to create a EC2
 Quick tip: `Zone A for a login not same zone A for other login in AWS Console`
 Creating a EC2 and by a reserved instance.
 
-INSERIT IMAGENS
+**Description:**
+![EC2 Description](./ec2_desc.png)
+
+**Monitor:**
+![EC2 Description](./ec2_monitor.png)
+
+**Status:**
+![EC2 Description](./ec2_status.png)
+
+
 
 **Volumes Types:**
 
@@ -69,7 +78,7 @@ A block store on cloud, a hard disk on cloud
 
 **5 Types**: 
 
-TODO INSERIR IMAGEM
+![EBS Types](./ebs_images.png)
 
 Move a EBS to other zone:
 
