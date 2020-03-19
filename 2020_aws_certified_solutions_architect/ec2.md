@@ -31,13 +31,13 @@ Quick tip: `Zone A for a login not same zone A for other login in AWS Console`
 Creating a EC2 and by a reserved instance.
 
 **Description:**
-![EC2 Description](./ec2_desc.png)
+![EC2 Description](../ec2_desc.png)
 
 **Monitor:**
-![EC2 Description](./ec2_monitor.png)
+![EC2 Description](../ec2_monitor.png)
 
 **Status:**
-![EC2 Description](./ec2_status.png)
+![EC2 Description](../ec2_status.png)
 
 
 
@@ -78,7 +78,7 @@ A block store on cloud, a hard disk on cloud
 
 **5 Types**: 
 
-![EBS Types](./ebs_images.png)
+![EBS Types](../ebs_images.png)
 
 Move a EBS to other zone:
 
